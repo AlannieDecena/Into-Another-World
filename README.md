@@ -1,3 +1,3 @@
 # Into-Another-World-miniProject
 
-live url : https://alanniedecena.github.io/Into-Another-World-miniProject/index.html
+live url : https://alanniedecena.github.io/Into-Another-World-miniProject/
